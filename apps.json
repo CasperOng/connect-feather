@@ -21,12 +21,12 @@
       "versions": [
         {
           "version": "4.6",
-          "buildVersion": "10",
+          "buildVersion": "12",
           "date": "2026-10-23",
-          "localizedDescription": "Version 4.6 (build 10) \u2014 unsigned, ready to sign with Feather.",
-          "downloadURL": "https://casperong.is-a.dev/connect-feather/ipas/Connect-4.6-10.ipa",
-          "size": 2807486,
-          "sha256": "9ab3883df723ff6fe9422928733b7e744e01218cc5c3f3652d3b9440da257ac3",
+          "localizedDescription": "Version 4.6 (build 12) \u2014 unsigned, ready to sign with Feather.",
+          "downloadURL": "https://casperong.is-a.dev/connect-feather/ipas/Connect-4.6-12.ipa",
+          "size": 2806779,
+          "sha256": "3bc3c62860504cb8138faba7730960e8bea58fec3e07b03d3ccecc59ddd5437e",
           "minOSVersion": "26.0"
         }
       ]
