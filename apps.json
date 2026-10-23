@@ -1,0 +1,35 @@
+{
+  "name": "Connect",
+  "subtitle": "AppleConnect UI study",
+  "description": "Unsigned Connect builds for signing with Feather.",
+  "iconURL": "https://casperong.github.io/connect-feather/icons/Connect.png",
+  "tintColor": "#0A84FF",
+  "apps": [
+    {
+      "name": "Connect",
+      "bundleIdentifier": "com.apple.ist.connect",
+      "developerName": "Casper Ong",
+      "subtitle": "AppleConnect UI study",
+      "localizedDescription": "A study reconstruction of the interface of Apple's internal AppleConnect app, with OpenVPN and WireGuard profile support added. It performs no authentication and contacts no Apple service \u2014 every credential check is a local stub.",
+      "iconURL": "https://casperong.github.io/connect-feather/icons/Connect.png",
+      "tintColor": "#0A84FF",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.6",
+          "buildVersion": "3",
+          "date": "2026-10-23",
+          "localizedDescription": "Version 4.6 (build 3) \u2014 unsigned, ready to sign with Feather.",
+          "downloadURL": "https://casperong.github.io/connect-feather/ipas/Connect-unsigned.ipa",
+          "size": 1944554,
+          "sha256": "e452528d838479a1432b0f0187ea7c422751694ec58d037d31f7caa8e1c94bad",
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ]
+}
