@@ -3,11 +3,11 @@
 | | |
 | --- | --- |
 | Version | 4.6 |
-| Build | 7 |
+| Build | 10 |
 | Bundle id | `com.apple.ist.connect` |
-| Size | 2,824,651 bytes |
-| SHA-256 | `e784e02bc2f674c8c0de30da41a4499264c60f235e46d8329795389287f5b401` |
-| IPA | [`ipas/Connect-4.6-7.ipa`](ipas/Connect-4.6-7.ipa) |
-| Published | 2026-10-23T16:37:11Z |
+| Size | 2,807,486 bytes |
+| SHA-256 | `9ab3883df723ff6fe9422928733b7e744e01218cc5c3f3652d3b9440da257ac3` |
+| IPA | [`ipas/Connect-4.6-10.ipa`](ipas/Connect-4.6-10.ipa) |
+| Published | 2026-10-23T17:33:29Z |
 
 Built from [`CasperOng/connect`](https://github.com/CasperOng/connect) release `latest`.
